@@ -1,0 +1,30 @@
+
+.left{
+   display: inline-block;
+    border: 1px solid red;
+}
+.moddle{
+    padding: 0;
+
+    border: 1px solid red;
+   margin-left: 1%;
+    display: inline-block;
+
+}
+.right{
+    padding: 0;
+
+    border: 1px solid red;
+    margin-left: 1%;
+    display: inline-block;
+}
+.text-danger{
+    color: red;
+
+}
+.rightMenu{
+    display: inline-block;
+    margin-left: 1%;
+    border: 1px solid red;
+    padding: 0;
+}
